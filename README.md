@@ -11,9 +11,7 @@ Hi, I'm Betsy, a full stack software engineer :sparkles:
         <br />
         <p><a href="https://github.com/gh-capstone-team-c/Go.bARk">Repo</a>
         <br />
-        <a href="https://github.com/gh-capstone-team-c/Go.bARk">
-            <img src="https://media.giphy.com/media/pxWUOqYjHZUcwAtB8v/giphy.gif" width="100%" alt="go.bARk"/>
-        </a>
+            <img src="https://media.giphy.com/media/3OL5fgmOef37nkMSnt/giphy.gif" width="100%" alt="Map It!"/>
         <p>An Augmented Reality Mobile App that allows a user to play with a virtual dog, connect with friends, and earn points for taking care of their dog.</p>
     </td>
     <td width="33%" valign="top">
