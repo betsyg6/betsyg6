@@ -15,7 +15,7 @@ Hi, I'm Betsy, a full stack software engineer :sparkles:
     <td width="33%" valign="top">
       <h3>Map It!</h3>
         <br />
-        <p><a href="https://github.com/betsyg6/mapitapp">Repo</a> // <a href="https://mapitapp.herokuapp.com/">Site</a></p>
+        <p><a href="https://github.com/betsyg6/mapitapp">Repo</a> | <a href="https://mapitapp.herokuapp.com/">Site</a></p>
         <br />
         <a href="https://mapitapp.herokuapp.com/">
             <img src="https://media.giphy.com/media/L7hy6GV0La3AktoZwQ/giphy.gif" width="100%" alt="Map It!"/>
