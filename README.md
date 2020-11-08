@@ -7,7 +7,7 @@ Hi, I'm Betsy, a full stack software engineer :sparkles:
     <td width="33%" valign="top">
       <h3>go.bARk</h3>
         <br />
-        <p><a href="https://github.com/gh-capstone-team-c/Go.bARk">Repo</a>
+        <p><a href="https://github.com/gh-capstone-team-c/Go.bARk">Repo</a> | <a href="https://www.youtube.com/watch?v=tJig6T0Ccoc">Team Video</a></p>
         <br />
           <a href="https://www.youtube.com/watch?v=tJig6T0Ccoc">
             <img src="https://media.giphy.com/media/3OL5fgmOef37nkMSnt/giphy.gif" width="100%" alt="Map It!"/>
