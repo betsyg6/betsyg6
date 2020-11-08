@@ -2,8 +2,6 @@
 
 Hi, I'm Betsy, a full stack software engineer :sparkles:
 
-## My Projects
-
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
