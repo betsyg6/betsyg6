@@ -1,6 +1,6 @@
 # :sunflower: Betsy Groton
 
-Hi, I'm [Betsy] (https://betsygroton.netlify.app/), a full-stack software engineer :sparkles:
+Hi, I'm [Betsy](https://betsygroton.netlify.app/), a full-stack software engineer :sparkles:
 
 <table bordercolor="#66b2b2">
   <tr>
