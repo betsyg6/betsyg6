@@ -2,6 +2,8 @@
 
 Hi, I'm [Betsy](https://www.betsygroton.com/), a full-stack software engineer :sparkles:
 
+Check out my [resume](https://betsyg6.github.io/Resume/)!
+
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
