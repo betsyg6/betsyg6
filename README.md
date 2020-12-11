@@ -6,16 +6,30 @@ Check out my [resume](https://betsyg6.github.io/Resume/)!
 
 <table bordercolor="#66b2b2">
   <tr>
+     <td width="33%" valign="top">
+      <h3>Weather Watcher</h3>
+        <br />
+        <p><a href="https://github.com/Jackie-Sydney-Betsy/weather-chrome-extension">Repo</a> | <a href="https://www.youtube.com/watch?v=36AS_etm0JM&feature=youtu.be">Video</a></p>
+        <br />
+        <a href="https://www.youtube.com/watch?v=36AS_etm0JM&feature=youtu.b">
+            <img src="https://media.giphy.com/media/WD7GdVKKhRDdrfFjaR/giphy.gif" width="100%" alt="Weather Watcher"/>
+        </a>
+        <p>A Google Chrome Extension that keeps users informed about climate change in their location and in the news.</p>
+    </td>
     <td width="33%" valign="top">
       <h3>go.bARk</h3>
         <br />
-        <p><a href="https://github.com/gh-capstone-team-c/Go.bARk">Repo</a> | <a href="https://www.youtube.com/watch?v=tJig6T0Ccoc">Team Video</a></p>
+        <p><a href="https://github.com/gh-capstone-team-c/Go.bARk">Repo</a> | <a href="https://www.youtube.com/watch?v=tJig6T0Ccoc">Video</a></p>
         <br />
           <a href="https://www.youtube.com/watch?v=tJig6T0Ccoc">
-            <img src="https://media.giphy.com/media/3OL5fgmOef37nkMSnt/giphy.gif" width="100%" alt="Map It!"/>
+            <img src="https://media.giphy.com/media/3OL5fgmOef37nkMSnt/giphy.gif" width="100%" alt="go.bark"/>
           </a>
         <p>An Augmented Reality mobile app that allows a user to play with a virtual dog, connect with friends, and earn points for taking care of their dog.</p>
     </td>
+  </tr>
+  
+  
+   <tr>
     <td width="33%" valign="top">
       <h3>Map It!</h3>
         <br />
@@ -25,6 +39,16 @@ Check out my [resume](https://betsyg6.github.io/Resume/)!
             <img src="https://media.giphy.com/media/L7hy6GV0La3AktoZwQ/giphy.gif" width="100%" alt="Map It!"/>
         </a>
         <p>A full-stack web application that allows users to save and share locations on a map.</p>
+    </td>
+      <td width="33%" valign="top">
+      <h3>HalloWOOF</h3>
+        <br />
+        <p><a href="https://github.com/Grace-Shopper-BG-JL-AV/grace-shopper">Repo</a> | <a href="https://hallowoof.herokuapp.com/">Site</a></p>
+        <br />
+          <a href="https://hallowoof.herokuapp.com/">
+            <img src="https://media.giphy.com/media/radHakjt8ESYU1Bkaa/giphy.gif" width="100%" alt="HalloWOOF"/>
+          </a>
+        <p>An e-commerce website that sells halloween costumes for dogs.</p>
     </td>
   </tr>
 </table>
