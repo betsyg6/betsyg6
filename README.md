@@ -14,7 +14,7 @@ Check out my [resume](https://betsyg6.github.io/Resume/)!
         <a href="https://www.youtube.com/watch?v=36AS_etm0JM&feature=youtu.b">
             <img src="https://media.giphy.com/media/WD7GdVKKhRDdrfFjaR/giphy.gif" width="100%" alt="Weather Watcher"/>
         </a>
-        <p>A Google Chrome Extension that keeps users informed about climate change in their location and in the news.</p>
+       <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6744353266055962624">Winner of Mintbean's Social Justice Hackathon</a>: A Google Chrome Extension that keeps users informed about climate change in their location and in the news.</p>
     </td>
     <td width="33%" valign="top">
       <h3>go.bARk</h3>
