@@ -1,6 +1,7 @@
 # :sunflower: Betsy Groton
 
 Hi, I'm [Betsy](https://www.betsygroton.com/), a full-stack software engineer :sparkles:
+Currently learning: Kotlin and Android Development
 
 Check out my [resume](https://betsyg6.github.io/Resume/)!
 
