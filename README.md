@@ -2,6 +2,7 @@
 
 Hi, I'm [Betsy](https://www.betsygroton.com/), a full-stack software engineer :sparkles:
 
+Currently Learning: :fire: Firebase :fire: for User Authentication and as a Realtime Database 
 
 Check out my [resume](https://betsyg6.github.io/Resume/)!
 
