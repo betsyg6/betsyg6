@@ -4,7 +4,7 @@ Hi, I'm [Betsy](https://www.betsygroton.com/), a full-stack software engineer :s
 
 Currently Learning: :fire: Firebase :fire: for User Authentication and as a Realtime Database 
 
-Check out my [resume](https://betsyg6.github.io/Resume/)!
+Check out my [resume](https://betsyg6.github.io/Resume/), [blog](https://grotoned.medium.com/), and [linkedin](www.linkedin.com/in/elizabethgroton)!
 
 <table bordercolor="#66b2b2">
   <tr>
