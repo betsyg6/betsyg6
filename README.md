@@ -66,6 +66,7 @@ Currently Learning: :fire: Firebase :fire: for User Authentication and as a Real
   <p><i>Facts are hard...</i><p>
 
   - I worked as a teacher for 7 years
+  - I'm learning how to roller skate and snowboard
   - Currently binge-watching 24
   - 🎶 I know every word to every song in Hamilton 🎶
   
