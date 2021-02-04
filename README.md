@@ -63,7 +63,7 @@ Currently Learning: :fire: Firebase :fire: for User Authentication and as a Real
 <details>
   <summary>Some other facts about me :sparkles:</summary>
   <br>
-  <p><i>Facts are hard...</i><p>
+  <p><i>Hmm let me think...</i><p>
 
   - I worked as a teacher for 7 years
   - I'm learning how to roller skate and snowboard
@@ -76,6 +76,6 @@ Currently Learning: :fire: Firebase :fire: for User Authentication and as a Real
 </details>
 
 
-Check out my [resume](https://betsyg6.github.io/Resume/), [blog](https://grotoned.medium.com/), and [linkedin](https://www.linkedin.com/in/elizabethgroton)!
+Check out my [resume](https://betsyg6.github.io/Resume/), [tech blog](https://grotoned.medium.com/), and [linkedin](https://www.linkedin.com/in/elizabethgroton)!
 
 <img src="https://raw.githubusercontent.com/betsyg6/betsyg6/5ee39e3c645633d32b03a63042f7b12dc8fd6388/footer.svg" width="100%" />
