@@ -1,4 +1,6 @@
-# :sunflower: Betsy Groton
+<a href="https://www.betsygroton.com">
+  <img src="https://raw.githubusercontent.com/betsyg6/betsyg6/64ab750f3efe539ea355ebee292fc02114672a79/header.svg" width="100%" />
+  </a>
 
 Hi, I'm [Betsy](https://www.betsygroton.com/), a full-stack software engineer :sparkles:
 
