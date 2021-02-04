@@ -76,6 +76,6 @@ Currently Learning: :fire: Firebase :fire: for User Authentication and as a Real
 </details>
 
 
-Check out my [resume](https://betsyg6.github.io/Resume/), [blog](https://grotoned.medium.com/), and [linkedin](www.linkedin.com/in/elizabethgroton)!
+Check out my [resume](https://betsyg6.github.io/Resume/), [blog](https://grotoned.medium.com/), and [linkedin](https://www.linkedin.com/in/elizabethgroton)!
 
 <img src="https://raw.githubusercontent.com/betsyg6/betsyg6/5ee39e3c645633d32b03a63042f7b12dc8fd6388/footer.svg" width="100%" />
