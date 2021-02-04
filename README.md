@@ -16,7 +16,7 @@ Currently Learning: :fire: Firebase :fire: for User Authentication and as a Real
   - 🎶 I know every word to every song in Hamilton 🎶
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=betsyg6&show_icons=true&theme=nord)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=betsyg6&show_icons=true&theme=tokyonight)
   <br><br>
 </details>
 
