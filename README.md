@@ -61,13 +61,13 @@ Currently Learning: :fire: Firebase :fire: for User Authentication and as a Real
   </details
 <br>
 <details>
-  <summary>Some other facts about me :sparkles:</summary>
+  <summary>Some other facts about me :satisfied:</summary>
   <br>
   <p><i>Hmm let me think...</i><p>
 
-  - I worked as a teacher for 7 years
-  - I'm learning how to roller skate and snowboard
-  - Currently binge-watching 24
+  - I worked as an elementary teacher for 7 years :apple:
+  - :snowboarder: I'm learning how to roller skate and snowboard
+  - Currently binge-watching 24 :alarm_clock:
   - 🎶 I know every word to every song in Hamilton 🎶
   
 
