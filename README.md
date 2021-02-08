@@ -12,7 +12,7 @@ Currently Learning: :fire: Firebase :fire: for User Authentication and as a Real
   <table bordercolor="#66b2b2">
   <tr>
      <td width="33%" valign="top">
-      <h3>Weather Watcher</h3>
+      <h3>Weather Watcher :rainbow:</h3>
         <br />
         <p><a href="https://github.com/Jackie-Sydney-Betsy/weather-chrome-extension">Repo</a> | <a href="https://www.youtube.com/watch?v=36AS_etm0JM&feature=youtu.be">Video</a></p>
         <br />
@@ -22,7 +22,7 @@ Currently Learning: :fire: Firebase :fire: for User Authentication and as a Real
        <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6744353266055962624">Winner of Mintbean's Social Justice Hackathon</a>: A Google Chrome Extension that keeps users informed about climate change in their location and in the news.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>go.bARk</h3>
+      <h3>go.bARk :dog:</h3>
         <br />
         <p><a href="https://github.com/gh-capstone-team-c/Go.bARk">Repo</a> | <a href="https://www.youtube.com/watch?v=tJig6T0Ccoc">Video</a></p>
         <br />
@@ -36,7 +36,7 @@ Currently Learning: :fire: Firebase :fire: for User Authentication and as a Real
   
    <tr>
     <td width="33%" valign="top">
-      <h3>Map It!</h3>
+      <h3>Map It! :earth_americas:</h3>
         <br />
         <p><a href="https://github.com/betsyg6/mapitapp">Repo</a> | <a href="https://mapitapp.herokuapp.com/">Site</a></p>
         <br />
@@ -46,7 +46,7 @@ Currently Learning: :fire: Firebase :fire: for User Authentication and as a Real
         <p>A full-stack web application that allows users to save and share locations on a map.</p>
     </td>
       <td width="33%" valign="top">
-      <h3>HalloWOOF</h3>
+      <h3>HalloWOOF :jack_o_lantern:</h3>
         <br />
         <p><a href="https://github.com/Grace-Shopper-BG-JL-AV/grace-shopper">Repo</a> | <a href="https://hallowoof.herokuapp.com/">Site</a></p>
         <br />
