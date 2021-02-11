@@ -4,7 +4,7 @@
 
 Hi, I'm [Betsy](https://www.betsygroton.com/), a full-stack software engineer :sparkles:
 
-Currently Learning: :fire: Firebase :fire: for User Authentication and as a Realtime Database 
+Currently Practicing: Beautifying, styling, and making apps prettier :nail_care:
 
 <details>
   <summary>Check out some of my favorite projects!</summary>
