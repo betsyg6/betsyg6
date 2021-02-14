@@ -4,7 +4,7 @@
 
 Hi, I'm [Betsy](https://www.betsygroton.com/), a full-stack software engineer :sparkles:
 
-Currently Practicing: Beautifying, styling, and making apps prettier :nail_care:
+Currently Practicing: Flexbox :nail_care: && React Hooks :leftwards_arrow_with_hook:
 
 <details>
   <summary>Check out some of my favorite projects!</summary>
